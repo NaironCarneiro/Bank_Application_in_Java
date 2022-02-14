@@ -1,3 +1,3 @@
 # Bank_Application_Java
 
-Aplicação bancária desenvolvido em Java, como requisito da disciplina de programação orientada a objetos.
+Banking application developed in Java, as a requirement for the discipline of object-oriented programming.
